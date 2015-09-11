@@ -19,4 +19,4 @@ The following are the contents of the repository:
 5. Plot 4 - Run command: source("plot4.R")
 
 ##Output
-The scripts will place a file called "plot#.R" in your working directory.
+The scripts will place a file called "plot#.png" in your working directory.
